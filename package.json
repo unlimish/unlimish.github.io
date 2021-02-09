@@ -1,7 +1,7 @@
 {
   "name": "unlimish_page",
   "version": "1.0.0",
-  "description": "Unlimish's homepage"
+  "description": "Unlimish's homepage",
   "private": true,
   "scripts": {
     "dev": "nuxt",
