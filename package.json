@@ -1,16 +1,22 @@
 {
-  "name": "unlimish-pages",
+  "name": "unlimish_page",
   "version": "1.0.0",
-  "private": true,
+  "description": "Unlimish's homepage",
+  "main": "index.js",
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "export": "nuxt export",
-    "serve": "nuxt serve"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unlimish/unlimish_page.git"
+  },
+  "author": "Unlimish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unlimish/unlimish_page/issues"
+  },
+  "homepage": "https://github.com/unlimish/unlimish_page#readme",
   "dependencies": {
-    "nuxt": "^2.13.0"
-  },
-  "devDependencies": {}
+    "vue": "^2.6.12"
+  }
 }
